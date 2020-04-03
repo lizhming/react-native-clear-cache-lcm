@@ -1,0 +1,34 @@
+{
+  "name": "react-native-clear-cache-lcm",
+  "version": "1.0.1",
+  "description": "react-native library for wechat app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lizhming/react-native-clear-cache-lcm.git"
+  },
+  "keywords": [
+    "cache",
+    "react",
+    "react-native",
+    "react-component"
+  ],
+  "dependencies": {
+    "events": "1.0.2"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.60"
+  },
+  "author": "lizhming <li.zhming215@gmail.com>",
+  "contributors": [
+
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lizhming/react-native-clear-cache-lcm/issues"
+  },
+  "homepage": "https://github.com/lizhming/react-native-clear-cache-lcm#readme"
+}
